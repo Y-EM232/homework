@@ -44,10 +44,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sjtu-rm/Workspace/homework/work_1/ques_1
+CMAKE_SOURCE_DIR = /home/sjtu-rm/Workspace/homework/work_2/ques_1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sjtu-rm/Workspace/homework/work_1/ques_1/build
+CMAKE_BINARY_DIR = /home/sjtu-rm/Workspace/homework/work_2/ques_1/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/ocv.dir/clean
 CMakeFiles/ocv.dir/all:
 	$(MAKE) -f CMakeFiles/ocv.dir/build.make CMakeFiles/ocv.dir/depend
 	$(MAKE) -f CMakeFiles/ocv.dir/build.make CMakeFiles/ocv.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sjtu-rm/Workspace/homework/work_1/ques_1/build/CMakeFiles --progress-num=1,2 "Built target ocv"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sjtu-rm/Workspace/homework/work_2/ques_1/build/CMakeFiles --progress-num=1,2 "Built target ocv"
 .PHONY : CMakeFiles/ocv.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ocv.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sjtu-rm/Workspace/homework/work_1/ques_1/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sjtu-rm/Workspace/homework/work_2/ques_1/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ocv.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sjtu-rm/Workspace/homework/work_1/ques_1/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sjtu-rm/Workspace/homework/work_2/ques_1/build/CMakeFiles 0
 .PHONY : CMakeFiles/ocv.dir/rule
 
 # Convenience name for target.

@@ -1,3 +1,3 @@
-/home/sjtu-rm/Workspace/homework/work_1/ques_1/build/CMakeFiles/rebuild_cache.dir
-/home/sjtu-rm/Workspace/homework/work_1/ques_1/build/CMakeFiles/edit_cache.dir
-/home/sjtu-rm/Workspace/homework/work_1/ques_1/build/CMakeFiles/ocv.dir
+/home/sjtu-rm/Workspace/homework/work_2/ques_1/build/CMakeFiles/rebuild_cache.dir
+/home/sjtu-rm/Workspace/homework/work_2/ques_1/build/CMakeFiles/edit_cache.dir
+/home/sjtu-rm/Workspace/homework/work_2/ques_1/build/CMakeFiles/ocv.dir

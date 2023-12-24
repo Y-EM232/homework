@@ -1,4 +1,4 @@
-# Install script for directory: /home/sjtu-rm/Workspace/homework/work_1/ques_1
+# Install script for directory: /home/sjtu-rm/Workspace/homework/work_2/ques_1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/sjtu-rm/Workspace/homework/work_1/ques_1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/sjtu-rm/Workspace/homework/work_2/ques_1/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
